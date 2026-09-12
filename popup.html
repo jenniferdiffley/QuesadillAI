@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>QuesadillAI</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <main>
+    <h1>QuesadillAI</h1>
+    <p class="subtitle">A tiny linguistic griddle for the internet.</p>
+
+    <label class="toggleRow">
+      <span>Enable replacement</span>
+      <input id="enabled" type="checkbox">
+    </label>
+
+    <label for="replacement">Replace “AI” with:</label>
+    <input id="replacement" type="text" maxlength="50" placeholder="quesadillas">
+
+    <button id="save">Save</button>
+    <p id="status" aria-live="polite"></p>
+
+    <p class="example">
+      Generative AI → Generative <strong>quesadillas</strong>
+    </p>
+  </main>
+
+  <script src="popup.js"></script>
+</body>
+</html>
