@@ -62,11 +62,7 @@ You can:
 - Change “quesadillas” to any word or phrase
 - Save your preference
 
-Today: quesadillas.
-
-Tomorrow: capybaras.
-
-The infrastructure is ready.
+Might I suggest "butts?" Our finest of the night, sir.
 
 ## Notes
 
@@ -86,6 +82,4 @@ MIT
 
 ## Why?
 
-There are many important questions about artificial intelligence.
-
-This is not one of them.
+I'm so sick of this shit.
