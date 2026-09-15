@@ -2,7 +2,7 @@
 
 A tiny Chrome/Edge extension that replaces every standalone instance of **AI** on webpages with **quesadillas**.
 
-Because the internet needed this.
+Because I am so, so sick of everything being AI.
 
 ## What it does
 
